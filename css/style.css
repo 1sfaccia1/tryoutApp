@@ -8,3 +8,16 @@ body {
   height: 100vh;
   background-image: linear-gradient(#a15252, #215e9d);
 }
+
+.row{
+  height: 20%;
+  justify-content: center;
+  margin: 0 auto;
+  text-align: center;
+}
+
+ h1 {
+  font-size: 4.5em;
+  font-family: 'Black Ops One', cursive;
+  color: #c4c722;
+}
