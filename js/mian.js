@@ -1,4 +1,4 @@
-const particlesjs = require('particlesjs');
+const particles = require('particles-js');
 
 /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
 particlesJS.load('particles-js', 'assets/particles.json', function() {
