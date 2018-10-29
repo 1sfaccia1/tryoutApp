@@ -11,13 +11,19 @@ body {
 
 .row{
   height: 20%;
-  justify-content: center;
-  margin: 0 auto;
+  margin: 30% auto;
   text-align: center;
+  display: block;
 }
 
  h1 {
   font-size: 4.5em;
   font-family: 'Black Ops One', cursive;
   color: #c4c722;
+}
+
+#particles-js{
+height: 400px;
+
+
 }
